@@ -27,7 +27,7 @@
 
     <p>PHP says "Hello World!"</p>
 
-    <p>Can you display a sentence with ''' and """?</p>
+    <p>Can you display a sentence with ' and "?</p>
 
     <img src="php-logo.png">
 
